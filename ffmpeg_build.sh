@@ -36,6 +36,7 @@ make clean
 --enable-yasm \
 --disable-doc \
 --disable-shared \
+--disable-asm \
 --enable-static \
 --pkg-config="${2}/ffmpeg-pkg-config" \
 --prefix="${2}/build/${1}" \
