@@ -10,6 +10,6 @@ before_install:
   - tar -xf ndk.tgz
   - export ANDROID_NDK=`pwd`/android-ndk-r9c
   - export ANDROID_NDK_HOME=`pwd`/android-ndk-r9c
+  - bash init_update_libs.sh
 
 script: "./android_build.sh"
-
