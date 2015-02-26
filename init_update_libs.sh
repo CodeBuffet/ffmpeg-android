@@ -13,3 +13,4 @@ wget -O- http://downloads.sourceforge.net/project/libpng/libpng16/older-releases
 wget -O- http://downloads.sourceforge.net/project/expat/expat/2.1.0/expat-2.1.0.tar.gz | tar xz
 wget -O- http://fribidi.org/download/fribidi-0.19.6.tar.bz2 | tar xj
 echo "============================================"
+exit 0
