@@ -23,11 +23,8 @@ make clean
 --enable-runtime-cpudetect \
 --sysroot="$NDK_SYSROOT" \
 --enable-pic \
---enable-libx264 \
---enable-libass \
---enable-libfreetype \
+--enable-libmp3lame \
 --enable-libfribidi \
---enable-fontconfig \
 --enable-pthreads \
 --disable-debug \
 --disable-ffserver \

@@ -1,0 +1,97 @@
+brhist.o: brhist.c ../config.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/stdio.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/cdefs.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/cdefs_elf.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/android/api-level.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include/stddef.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include/stdint.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/stdint.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/_types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/_types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/_wchar_limits.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/posix_types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/stddef.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/compiler.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include-fixed/asm/posix_types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/features.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/posix_types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/posix_types_32.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/kernel.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/sysmacros.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include/stdarg.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/stdlib.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/string.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/malloc.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/alloca.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/strings.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/memory.h \
+ brhist.h ../include/lame.h console.h
+
+../config.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/stdio.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/cdefs.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/android/api-level.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include/stddef.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include/stdint.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/stdint.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/_types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/_types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/_wchar_limits.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/posix_types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/stddef.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/compiler.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include-fixed/asm/posix_types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/features.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/posix_types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/posix_types_32.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/kernel.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/sysmacros.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include/stdarg.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/stdlib.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/string.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/malloc.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/alloca.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/strings.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/memory.h:
+
+brhist.h:
+
+../include/lame.h:
+
+console.h:

@@ -1,0 +1,249 @@
+interface.lo: interface.c ../config.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/stdlib.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/cdefs.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/cdefs_elf.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/android/api-level.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include/stddef.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/string.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/malloc.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/alloca.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/strings.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include/stdint.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/stdint.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/_types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/_types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/_wchar_limits.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/posix_types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/stddef.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/compiler.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include-fixed/asm/posix_types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/features.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/posix_types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/posix_types_32.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/kernel.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/sysmacros.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/memory.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/stdio.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include/stdarg.h \
+ common.h mpg123.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/signal.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include-fixed/limits.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include-fixed/syslimits.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/limits.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/limits.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/limits.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/internal_types.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/limits.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/syslimits.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/page.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/page_32.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/signal.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/time.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/signal.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/sigcontext.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/siginfo.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/siginfo.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/ucontext.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/user.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/math.h \
+ mpglib.h ../include/lame.h interface.h tabinit.h layer3.h \
+ ../libmp3lame/machine.h ../libmp3lame/version.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/assert.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/ctype.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/errno.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/errno.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/errno.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/errno.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/errno-base.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/fcntl.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/fcntl.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/fcntl.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/fcntl.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/unistd.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/select.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/time.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/sysconf.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/capability.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/pathconf.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/stat.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/stat.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/endian.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/endian.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/endian.h \
+ /home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/inttypes.h \
+ ../libmp3lame/VbrTag.h decode_i386.h layer1.h layer2.h
+
+../config.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/stdlib.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/cdefs.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/android/api-level.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include/stddef.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/string.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/malloc.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/alloca.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/strings.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include/stdint.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/stdint.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/_types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/_types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/_wchar_limits.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/posix_types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/stddef.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/compiler.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include-fixed/asm/posix_types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/features.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/posix_types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/posix_types_32.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/kernel.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/sysmacros.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/memory.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/stdio.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include/stdarg.h:
+
+common.h:
+
+mpg123.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/signal.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include-fixed/limits.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/lib/gcc/i686-linux-android/4.8/include-fixed/syslimits.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/limits.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/limits.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/limits.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/internal_types.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/limits.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/syslimits.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/page.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/page_32.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/signal.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/time.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/signal.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/sigcontext.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/siginfo.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/siginfo.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/ucontext.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/user.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/math.h:
+
+mpglib.h:
+
+../include/lame.h:
+
+interface.h:
+
+tabinit.h:
+
+layer3.h:
+
+../libmp3lame/machine.h:
+
+../libmp3lame/version.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/assert.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/ctype.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/errno.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/errno.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/errno.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/errno.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/errno-base.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/fcntl.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/fcntl.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm/fcntl.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/asm-generic/fcntl.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/unistd.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/select.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/time.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/sysconf.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/capability.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/pathconf.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/stat.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/linux/stat.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/endian.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/sys/endian.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/machine/endian.h:
+
+/home/peter/Projects/ffmpeg-android/toolchain-android/sysroot/usr/include/inttypes.h:
+
+../libmp3lame/VbrTag.h:
+
+decode_i386.h:
+
+layer1.h:
+
+layer2.h:
