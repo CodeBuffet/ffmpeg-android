@@ -12,3 +12,4 @@ before_install:
   - export ANDROID_NDK_HOME=`pwd`/android-ndk-r9c
 
 script: "./android_build.sh"
+
