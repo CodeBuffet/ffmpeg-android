@@ -28,4 +28,3 @@ do
 done
 
 rm -rf ${TOOLCHAIN_PREFIX}
-exit 0

@@ -12,9 +12,10 @@ before_install:
   - export ANDROID_NDK_HOME=`pwd`/android-ndk-r9c
   - bash init_update_libs.sh
 
-script: 
- - "./android_build.sh"
- - "./wrap_release.sh"
+script: "./android_build.sh"
+
+after_script:
+  - sh wrap_release.sh
 
 deploy:
   provider: releases
